@@ -35,10 +35,10 @@ may represent a Lo Shu Magic Square of ANY SIZE.
 
 The function must return True if the list is a Lo Shu Magic Square of ANY SIZE.
 
-The function must return False if it is anything else.
+The function must return False if the argument is anything else.
 
 You may not modify the 2D list passed as an argument in any way, even temporarily.
 
-You must create two useful doctests for this function to show me that it works when it should,
+You must create at least three useful doctests for this function to show me that it works when it should,
 and that it doesn't work when it is provided a square matrix that is not a Lo Shu Magic Square.
 """
